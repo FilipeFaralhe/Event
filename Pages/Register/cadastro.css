@@ -1,24 +1,24 @@
 input#name {
-    background-image: url("/Assets/icons/Name.png");
+    background-image: url("../../Assets/icons/Name.png");
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 input#telefone {
-    background-image: url("/Assets/icons/Telefone.png");
+    background-image: url("../../Assets/icons/Telefone.png");
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 input#passwordConfirm {
-    background-image: url("/Assets/icons/PasswordConfirm.png");
+    background-image: url("../../Assets/icons/PasswordConfirm.png");
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 div#Background {
     flex: 1;
-    background-image: url("/Assets/img/backgroundRegister.jpg");
+    background-image: url("../../Assets/img/backgroundRegister.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: aqua;

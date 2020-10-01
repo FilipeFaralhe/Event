@@ -41,13 +41,13 @@ input {
 }
 
 input#email {
-    background-image: url("/Assets/icons/Email.png");
+    background-image: url("../../Assets/icons/Email.png");
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 input#password {
-    background-image: url("/Assets/icons/Password.png");
+    background-image: url("../../Assets/icons/Password.png");
     background-repeat: no-repeat;
     background-position: 10px;
 }
@@ -88,7 +88,7 @@ a#cadastrar:hover {
 
 div#Background {
   flex: 1;
-  background-image: url("/Assets/img/backgroundLogin.jpg");
+  background-image: url("../../Assets/img/backgroundLogin.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: aqua;
