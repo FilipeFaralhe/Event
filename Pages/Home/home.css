@@ -50,6 +50,8 @@ div#container {
   transition: 0.5s;
 }
 
+
+
 #Background {
   flex: 1;
   background-image: url("/Assets/img/background.png");
