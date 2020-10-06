@@ -14,18 +14,14 @@ html, body, #root {
 }
 
 body {
-  background-color: #F0F0F7;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-color: #E6E6F0;
 }
-
 
 body,
 input,
 button,
 textarea {
-  font:400 1.6rem Roboto Slab;
+  font:400 1.6rem Poppins;
 }
 
 @media (min-width: 700px) {

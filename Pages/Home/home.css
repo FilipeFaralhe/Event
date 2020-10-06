@@ -50,11 +50,18 @@ div#container {
   transition: 0.5s;
 }
 
+#voltarLogin {
+  color: #2b0548;
+  text-decoration: none;
+}
 
+#voltarLogin:hover {
+ color:#531781;
+}
 
 #Background {
   flex: 1;
-  background-image: url("../../Assets/img/background.png");
+  background-image: url("../../Assets/img/backgroundHome.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: aqua;
