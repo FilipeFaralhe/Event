@@ -43,8 +43,8 @@ header .contentHender .usuario {
 }
 
 main {
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 
 main .contentForm {
@@ -97,7 +97,7 @@ label {
 div .grupoDataEvento {
     margin-top: 1.5rem;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 2rem;
 }
 
