@@ -56,6 +56,10 @@ input#password {
     background-position: 10px;
 }
 
+a#entrar {
+  text-decoration: none;
+}
+
 button#submit {
     margin: 2rem 0 2.5rem;
     width: 17rem;
